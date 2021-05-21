@@ -14,7 +14,7 @@ function preload(){
 
   foxImg1=loadImage("fox.png");
   
-  bearImg=loadImage("bear.png")
+  
   snowmanImg=loadImage("snowman.png")
   christmasTreeImg=loadImage("christmas tree.png");
 }
